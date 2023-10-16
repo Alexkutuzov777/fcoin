@@ -1,11 +1,11 @@
 const config = {
-    admin: [794973977, 6546821651],
+    admin: [],
     bot: {
-        token: '6612285379:AAFkDzfxZ5kHsAB1GTsY4zGPSJWIHwwkv6U',
+        token: '#',
         username: '#'
     },
     db: {
-        url: 'mongodb://localhost:27017/air'
+        url: '#'
     },
 }
 
